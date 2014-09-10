@@ -1,0 +1,27 @@
+mmu00982:Drug metabolism
+mmu00980:Metabolism of xenobiotics by cytochrome P450
+mmu00591:Linoleic acid metabolism
+mmu00830:Retinol metabolism
+mmu00590:Arachidonic acid metabolism
+mmu05416:Viral myocarditis
+mmu04514:Cell adhesion molecules (CAMs)
+mmu05322:Systemic lupus erythematosus
+mmu00232:Caffeine metabolism
+mmu00480:Glutathione metabolism
+mmu04670:Leukocyte transendothelial migration
+mmu04650:Natural killer cell mediated cytotoxicity
+mmu00120:Primary bile acid biosynthesis
+mmu04512:ECM-receptor interaction
+mmu04612:Antigen processing and presentation
+mmu05330:Allograft rejection
+mmu05332:Graft-versus-host disease
+mmu04512:ECM-receptor interaction
+mmu04510:Focal adhesion
+mmu04360:Axon guidance
+mmu05200:Pathways in cancer
+mmu04514:Cell adhesion molecules (CAMs)
+mmu04810:Regulation of actin cytoskeleton
+mmu05222:Small cell lung cancer
+mmu04010:MAPK signaling pathway
+mmu04530:Tight junction
+mmu05215:Prostate cancer

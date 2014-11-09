@@ -1,0 +1,103 @@
+SUID,shared name,name,selected,KEGG_NODE_X,KEGG_NODE_Y,KEGG_NODE_WIDTH,KEGG_NODE_HEIGHT,KEGG_NODE_LABEL,KEGG_NODE_LABEL_LIST_FIRST,KEGG_NODE_LABEL_LIST,KEGG_ID,KEGG_NODE_LABEL_COLOR,KEGG_NODE_FILL_COLOR,KEGG_NODE_REACTIONID,KEGG_NODE_TYPE,KEGG_NODE_SHAPE,KEGG_LINK
+866,path:eco00250:15,path:eco00250:15,false,271,515,8,8,C00122,Fumarate,C00122,cpd:C00122,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00122
+867,path:eco00250:16,path:eco00250:16,false,270,572,8,8,C00042,Succinate,C00042,cpd:C00042,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00042
+868,path:eco00250:17,path:eco00250:17,false,734,513,8,8,C00036,Oxaloacetate,C00036,cpd:C00036,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00036
+869,path:eco00250:18,path:eco00250:18,false,666,572,8,8,C00026,2-Oxoglutarate,C00026,cpd:C00026,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00026
+870,path:eco00250:19,path:eco00250:19,false,497,543,474,34,Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),path:eco00020,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00020
+871,path:eco00250:20,path:eco00250:20,false,129,287,8,8,C00041,L-Alanine,C00041,cpd:C00041,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00041
+872,path:eco00250:21,path:eco00250:21,false,482,291,8,8,C00049,L-Asp,C00049,cpd:C00049,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00049
+873,path:eco00250:22,path:eco00250:22,false,735,291,8,8,C00152,L-Asparagine,C00152,cpd:C00152,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00152
+874,path:eco00250:23,path:eco00250:23,false,602,440,8,8,C00402,D-Aspartate,C00402,cpd:C00402,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00402
+875,path:eco00250:24,path:eco00250:24,false,738,396,8,8,C02362,Oxaloacetamide,C02362,cpd:C02362,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C02362
+876,path:eco00250:25,path:eco00250:25,false,666,195,8,8,C01042,N-Acetyl-L-aspartate,C01042,cpd:C01042,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C01042
+877,path:eco00250:26,path:eco00250:26,false,738,425,46,17,K13566,K13566,K13566,ko:K13566,#000000,#FFFFFF,rn:R00348,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K13566
+878,path:eco00250:27,path:eco00250:27,false,633,293,46,17,asnA,asnA,asnA,eco:b3744,#000000,#BFFFBF,rn:R00483,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3744
+879,path:eco00250:28,path:eco00250:28,false,633,258,46,17,asnB,asnB,asnB,eco:b0674,#000000,#BFFFBF,rn:R00578,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b0674
+880,path:eco00250:30,path:eco00250:30,false,231,287,46,17,K09758,K09758,K09758,ko:K09758,#000000,#FFFFFF,rn:R00397,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K09758
+881,path:eco00250:31,path:eco00250:31,false,633,348,46,17,ansA...,ansA...,ansA...,eco:b1767|eco:b2957,#000000,#BFFFBF,rn:R00485,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1767+eco:b2957
+882,path:eco00250:32,path:eco00250:32,false,633,327,46,17,K05597,K05597,K05597,ko:K05597,#000000,#FFFFFF,rn:R00485,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K05597
+883,path:eco00250:33,path:eco00250:33,false,538,440,46,17,K01779,K01779,K01779,ko:K01779,#000000,#FFFFFF,rn:R00491,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K01779
+884,path:eco00250:37,path:eco00250:37,false,567,195,46,17,K18309,K18309,K18309,ko:K18309,#000000,#FFFFFF,rn:R00487,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K18309
+885,path:eco00250:40,path:eco00250:40,false,594,471,46,17,K03334,K03334,K03334,ko:K03334,#000000,#FFFFFF,rn:R00357,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K03334
+886,path:eco00250:41,path:eco00250:41,false,594,492,46,17,nadB,nadB,nadB,eco:b2574,#000000,#BFFFBF,rn:R00357,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b2574
+887,path:eco00250:42,path:eco00250:42,false,594,513,46,17,aspC,aspC,aspC,eco:b0928,#000000,#BFFFBF,rn:R00355,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b0928
+888,path:eco00250:43,path:eco00250:43,false,664,430,46,17,K00272,K00272,K00272,ko:K00272,#000000,#FFFFFF,rn:R00359,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K00272
+889,path:eco00250:46,path:eco00250:46,false,345,380,8,8,C03794,Adenylosuccinate,C03794,cpd:C03794,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C03794
+890,path:eco00250:47,path:eco00250:47,false,402,380,8,8,C03406,L-Argininosuccinate,C03406,cpd:C03406,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C03406
+891,path:eco00250:48,path:eco00250:48,false,401,333,46,17,argG,argG,argG,eco:b3172,#000000,#BFFFBF,rn:R01954,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3172
+892,path:eco00250:49,path:eco00250:49,false,344,333,46,17,purA,purA,purA,eco:b4177,#000000,#BFFFBF,rn:R01135,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b4177
+893,path:eco00250:50,path:eco00250:50,false,270,427,46,17,aspA,aspA,aspA,eco:b4139,#000000,#BFFFBF,rn:R00490,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b4139
+894,path:eco00250:51,path:eco00250:51,false,402,427,46,17,argH,argH,argH,eco:b3960,#000000,#BFFFBF,rn:R01086,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3960
+895,path:eco00250:52,path:eco00250:52,false,345,427,46,17,purB,purB,purB,eco:b1131,#000000,#BFFFBF,rn:R01083,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1131
+896,path:eco00250:53,path:eco00250:53,false,129,513,8,8,C00022,Pyruvate,C00022,cpd:C00022,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00022
+897,path:eco00250:54,path:eco00250:54,false,129,380,46,17,K00827...,K00827...,K00827...,ko:K00827|ko:K00830|ko:K14272,#000000,#FFFFFF,rn:R00369,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K00827+K00830+K14272
+898,path:eco00250:56,path:eco00250:56,false,41,411,46,17,alaA,alaA,alaA,eco:b2290,#000000,#BFFFBF,rn:R00258,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b2290
+899,path:eco00250:59,path:eco00250:59,false,191,411,46,17,K00259,K00259,K00259,ko:K00259,#000000,#FFFFFF,rn:R00396,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K00259
+900,path:eco00250:60,path:eco00250:60,false,131,212,128,25,D-Alanine metabolism,D-Alanine metabolism,D-Alanine metabolism,path:eco00473,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00473
+901,path:eco00250:62,path:eco00250:62,false,666,134,8,8,C00438,N-Carbamoyl-L-aspartate,C00438,cpd:C00438,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00438
+902,path:eco00250:63,path:eco00250:63,false,567,134,46,17,pyrI...,pyrI...,pyrI...,eco:b4244|eco:b4245,#000000,#BFFFBF,rn:R01397,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b4244+eco:b4245
+903,path:eco00250:65,path:eco00250:65,false,809,135,126,25,Pyrimidine metabolism,Pyrimidine metabolism,Pyrimidine metabolism,path:eco00240,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00240
+904,path:eco00250:66,path:eco00250:66,false,128,582,104,34,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,path:eco00010,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00010
+905,path:eco00250:67,path:eco00250:67,false,594,386,126,25,Histidine metabolism,Histidine metabolism,Histidine metabolism,path:eco00340,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00340
+906,path:eco00250:68,path:eco00250:68,false,322,118,158,25,Cyanoamino acid metabolism,Cyanoamino acid metabolism,Cyanoamino acid metabolism,path:eco00460,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00460
+907,path:eco00250:69,path:eco00250:69,false,574,93,111,34,Arginine and proline metabolism,Arginine and proline metabolism,Arginine and proline metabolism,path:eco00330,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00330
+908,path:eco00250:70,path:eco00250:70,false,344,174,113,25,Lysine biosynthesis,Lysine biosynthesis,Lysine biosynthesis,path:eco00300,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00300
+909,path:eco00250:71,path:eco00250:71,false,342,202,116,25,beta-Alanine metabolism,beta-Alanine metabolism,beta-Alanine metabolism,path:eco00410,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00410
+910,path:eco00250:72,path:eco00250:72,false,328,230,144,25,Glycine, serine and threonine metabolism,Glycine,Glycine|serine and threonine metabolism,path:eco00260,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00260
+911,path:eco00250:73,path:eco00250:73,false,304,146,195,25,Nicotinate and nicotinamide metabolism,Nicotinate and nicotinamide metabolism,Nicotinate and nicotinamide metabolism,path:eco00760,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00760
+912,path:eco00250:74,path:eco00250:74,false,308,258,184,25,Pantothenate and CoA biosynthesis,Pantothenate and CoA biosynthesis,Pantothenate and CoA biosynthesis,path:eco00770,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00770
+913,path:eco00250:76,path:eco00250:76,false,271,627,46,17,sad...,sad...,sad...,eco:b1525|eco:b2661,#000000,#BFFFBF,rn:R00713 rn:R00714,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1525+eco:b2661
+914,path:eco00250:77,path:eco00250:77,false,295,646,46,17,sad,sad,sad,eco:b1525,#000000,#BFFFBF,rn:R00713,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1525
+915,path:eco00250:78,path:eco00250:78,false,270,703,8,8,C00232,4-Oxobutanoate,C00232,cpd:C00232,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00232
+916,path:eco00250:79,path:eco00250:79,false,666,700,8,8,C00025,Glutamate,C00025,cpd:C00025,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00025
+917,path:eco00250:80,path:eco00250:80,false,641,656,46,17,gltB...,gltB...,gltB...,eco:b3212|eco:b3213,#000000,#BFFFBF,rn:R00114,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3212+eco:b3213
+918,path:eco00250:81,path:eco00250:81,false,691,656,46,17,gltB...,gltB...,gltB...,eco:b3212|eco:b3213,#000000,#BFFFBF,rn:R00093,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3212+eco:b3213
+919,path:eco00250:83,path:eco00250:83,false,562,638,46,17,K00260...,K00260...,K00260...,ko:K00260|ko:K15371,#000000,#FFFFFF,rn:R00243,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K00260+K15371
+920,path:eco00250:84,path:eco00250:84,false,537,657,46,17,K00261,K00261,K00261,ko:K00261,#000000,#FFFFFF,rn:R00243 rn:R00248,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K00261
+921,path:eco00250:85,path:eco00250:85,false,587,657,46,17,gdhA,gdhA,gdhA,eco:b1761,#000000,#BFFFBF,rn:R00248,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1761
+922,path:eco00250:86,path:eco00250:86,false,402,703,8,8,C00334,GABA,C00334,cpd:C00334,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00334
+923,path:eco00250:88,path:eco00250:88,false,338,693,46,17,puuE...,puuE...,puuE...,eco:b1302|eco:b2662,#000000,#BFFFBF,rn:R01648,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1302+eco:b2662
+924,path:eco00250:90,path:eco00250:90,false,528,704,46,17,gadB...,gadB...,gadB...,eco:b1493|eco:b3517,#000000,#BFFFBF,rn:R00261,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1493+eco:b3517
+925,path:eco00250:92,path:eco00250:92,false,834,700,8,8,C00064,L-Glutamine,C00064,cpd:C00064,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00064
+926,path:eco00250:93,path:eco00250:93,false,749,701,46,17,glnA,glnA,glnA,eco:b3870,#000000,#BFFFBF,rn:R00253,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3870
+927,path:eco00250:96,path:eco00250:96,false,749,743,46,17,glsA...,glsA...,glsA...,eco:b0485|eco:b1524,#000000,#BFFFBF,rn:R00256,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b0485+eco:b1524
+928,path:eco00250:97,path:eco00250:97,false,749,764,46,17,K05597,K05597,K05597,ko:K05597,#000000,#FFFFFF,rn:R00256,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K05597
+929,path:eco00250:99,path:eco00250:99,false,695,816,8,8,C00014,NH3,C00014,cpd:C00014,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00014
+930,path:eco00250:101,path:eco00250:101,false,834,779,46,17,carA...,carA...,carA...,eco:b0032|eco:b0033,#000000,#BFFFBF,rn:R00575,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b0032+eco:b0033
+931,path:eco00250:102,path:eco00250:102,false,834,816,8,8,C00169,Carbamoyl phosphate,C00169,cpd:C00169,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00169
+932,path:eco00250:104,path:eco00250:104,false,764,818,46,17,K01948,K01948,K01948,ko:K01948,#000000,#FFFFFF,rn:R00149,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K01948
+933,path:eco00250:106,path:eco00250:106,false,834,572,8,8,C00940,2-Oxoglutaramate,C00940,cpd:C00940,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00940
+934,path:eco00250:109,path:eco00250:109,false,760,573,46,17,K13566,K13566,K13566,ko:K13566,#000000,#FFFFFF,rn:R00269,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K13566
+935,path:eco00250:111,path:eco00250:111,false,663,862,8,8,C03912,1-Pyrroline-5-carboxylate,C03912,cpd:C03912,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C03912
+936,path:eco00250:112,path:eco00250:112,false,662,778,46,17,putA,putA,putA,eco:b1014,#000000,#BFFFBF,rn:R00707 rn:R00708,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b1014
+937,path:eco00250:114,path:eco00250:114,false,883,656,46,17,glmS,glmS,glmS,eco:b3729,#000000,#BFFFBF,rn:R00768,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b3729
+938,path:eco00250:116,path:eco00250:116,false,882,755,46,17,purF,purF,purF,eco:b2312,#000000,#BFFFBF,rn:R01072,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b2312
+939,path:eco00250:117,path:eco00250:117,false,934,655,8,8,C00352,D-Glucosamine phosphate,C00352,cpd:C00352,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00352
+940,path:eco00250:118,path:eco00250:118,false,934,755,8,8,C03090,5-Phosphoribosylamine,C03090,cpd:C03090,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C03090
+941,path:eco00250:119,path:eco00250:119,false,1032,655,83,34,Aminosugars metabolism,Aminosugars metabolism,Aminosugars metabolism,path:map00530,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?map00530
+942,path:eco00250:120,path:eco00250:120,false,1042,755,104,25,Purine metabolism,Purine metabolism,Purine metabolism,path:eco00230,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00230
+943,path:eco00250:121,path:eco00250:121,false,968,816,129,25,Pyrimidine metabolism,Pyrimidine metabolism,Pyrimidine metabolism,path:eco00240,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00240
+944,path:eco00250:122,path:eco00250:122,false,835,922,173,25,Arginine and proline metabolism,Arginine and proline metabolism,Arginine and proline metabolism,path:eco00330,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00330
+945,path:eco00250:123,path:eco00250:123,false,516,734,121,25,Histidine metabolism,Histidine metabolism,Histidine metabolism,path:eco00340,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00340
+946,path:eco00250:124,path:eco00250:124,false,516,762,121,25,Nitrogen metabolism,Nitrogen metabolism,Nitrogen metabolism,path:eco00910,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00910
+947,path:eco00250:125,path:eco00250:125,false,501,790,150,25,D-Glutamine and D-glutamate metabolism,D-Glutamine and D-glutamate metabolism,D-Glutamine and D-glutamate metabolism,path:eco00471,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00471
+948,path:eco00250:126,path:eco00250:126,false,510,818,131,25,Glutathione metabolism,Glutathione metabolism,Glutathione metabolism,path:eco00480,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00480
+949,path:eco00250:127,path:eco00250:127,false,511,846,131,25,Porphyrin and chlorophyll metabolism,Porphyrin and chlorophyll metabolism,Porphyrin and chlorophyll metabolism,path:eco00860,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00860
+950,path:eco00250:128,path:eco00250:128,false,498,874,156,25,Cyanoamino acid metabolism,Cyanoamino acid metabolism,Cyanoamino acid metabolism,path:eco00460,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00460
+951,path:eco00250:129,path:eco00250:129,false,515,902,122,25,Butanoate metabolism,Butanoate metabolism,Butanoate metabolism,path:eco00650,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00650
+952,path:eco00250:130,path:eco00250:130,false,478,930,198,25,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,path:eco00660,#000000,#89b9cE,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00660
+953,path:eco00250:131,path:eco00250:131,false,518,597,8,8,C00014,NH3,C00014,cpd:C00014,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00014
+954,path:eco00250:132,path:eco00250:132,false,250,58,419,25,TITLE:Alanine, aspartate and glutamate metabolism,TITLE:Alanine,TITLE:Alanine|aspartate and glutamate metabolism,path:eco00250,#000000,#f5f5f5,,map,roundrectangle,http://www.kegg.jp/dbget-bin/www_bget?eco00250
+955,path:eco00250:133,path:eco00250:133,false,338,714,46,17,K16871,K16871,K16871,ko:K16871,#000000,#FFFFFF,rn:R10178,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K16871
+956,path:eco00250:134,path:eco00250:134,false,245,646,46,17,gabD,gabD,gabD,eco:b2661,#000000,#BFFFBF,rn:R00714,gene,rectangle,http://www.kegg.jp/dbget-bin/www_bget?eco:b2661
+957,path:eco00250:136,path:eco00250:136,false,567,226,46,17,K01437,K01437,K01437,ko:K01437,#000000,#FFFFFF,rn:R00488,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K01437
+958,path:eco00250:138,path:eco00250:138,false,731,185,46,17,K18311...,K18311...,K18311...,ko:K18311|ko:K18310,#000000,#FFFFFF,rn:R10678,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K18311+K18310
+959,path:eco00250:139,path:eco00250:139,false,797,195,8,8,C12270,NAAG,C12270,cpd:C12270,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C12270
+960,path:eco00250:141,path:eco00250:141,false,928,195,8,8,C20776,NAAG2,C20776,cpd:C20776,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C20776
+961,path:eco00250:142,path:eco00250:142,false,862,195,46,17,K18311,K18311,K18311,ko:K18311,#000000,#FFFFFF,rn:R10693,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K18311
+962,path:eco00250:144,path:eco00250:144,false,731,226,46,17,K14592,K14592,K14592,ko:K14592,#000000,#FFFFFF,rn:R10687,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K14592
+963,path:eco00250:146,path:eco00250:146,false,862,226,46,17,K14592,K14592,K14592,ko:K14592,#000000,#FFFFFF,rn:R10688,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K14592
+964,path:eco00250:147,path:eco00250:147,false,745,543,8,8,C00158,Citrate,C00158,cpd:C00158,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C00158
+965,path:eco00250:149,path:eco00250:149,false,810,543,46,17,K18310,K18310,K18310,ko:K18310,#000000,#FFFFFF,rn:R10677,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K18310
+966,path:eco00250:150,path:eco00250:150,false,877,543,8,8,C20775,beta-Citrylglutamate,C20775,cpd:C20775,#000000,#FFFFFF,,compound,circle,http://www.kegg.jp/dbget-bin/www_bget?C20775
+967,path:eco00250:151,path:eco00250:151,false,731,206,46,17,K18311,K18311,K18311,ko:K18311,#000000,#FFFFFF,rn:R10678,ortholog,rectangle,http://www.kegg.jp/dbget-bin/www_bget?K18311

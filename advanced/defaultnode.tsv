@@ -1,0 +1,137 @@
+SUID	shared name	name	selected	KEGG_NODE_X	KEGG_NODE_Y	KEGG_NODE_WIDTH	KEGG_NODE_HEIGHT	KEGG_NODE_LABEL	KEGG_NODE_LABEL_LIST_FIRST	KEGG_NODE_LABEL_LIST	KEGG_ID	KEGG_NODE_LABEL_COLOR	KEGG_NODE_FILL_COLOR	KEGG_NODE_REACTIONID	KEGG_NODE_TYPE	KEGG_NODE_SHAPE	KEGG_LINK
+816	path:eco00260:47	path:eco00260:47	false	162	547	46	17	K17755	K17755	K17755	ko:K17755	#000000	#FFFFFF	rn:R08211	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K17755
+817	path:eco00260:48	path:eco00260:48	false	688	222	46	17	K12235	K12235	K12235	ko:K12235	#000000	#FFFFFF	rn:R00589	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K12235
+818	path:eco00260:49	path:eco00260:49	false	1079	909	8	8	C16432	5-Hydroxyectoine	C16432	cpd:C16432	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C16432
+819	path:eco00260:50	path:eco00260:50	false	1023	909	46	17	K10674	K10674	K10674	ko:K10674	#000000	#FFFFFF	rn:R08050	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K10674
+820	path:eco00260:51	path:eco00260:51	false	99	464	46	17	K00499	K00499	K00499	ko:K00499	#000000	#FFFFFF	rn:R07409	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00499
+821	path:eco00260:52	path:eco00260:52	false	978	909	8	8	C06231	Ectoine	C06231	cpd:C06231	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C06231
+822	path:eco00260:53	path:eco00260:53	false	861	909	8	8	C06442	N(gamma)-Acetyldiaminobutyrate	C06442	cpd:C06442	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C06442
+823	path:eco00260:54	path:eco00260:54	false	734	909	8	8	C03283	L-2,4-Diaminobutyrate	C03283	cpd:C03283	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C03283
+824	path:eco00260:55	path:eco00260:55	false	915	910	46	17	K06720	K06720	K06720	ko:K06720	#000000	#FFFFFF	rn:R06979	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K06720
+825	path:eco00260:56	path:eco00260:56	false	792	910	46	17	K06718	K06718	K06718	ko:K06718	#000000	#FFFFFF	rn:R06978	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K06718
+826	path:eco00260:57	path:eco00260:57	false	663	909	46	17	K00836	K00836	K00836	ko:K00836	#000000	#FFFFFF	rn:R06977	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00836
+827	path:eco00260:58	path:eco00260:58	false	99	483	46	17	K17755	K17755	K17755	ko:K17755	#000000	#FFFFFF	rn:R01022	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K17755
+828	path:eco00260:59	path:eco00260:59	false	149	464	46	17	betA	betA	betA	eco:b0311	#000000	#BFFFBF	rn:R01025	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0311
+829	path:eco00260:61	path:eco00260:61	false	162	526	46	17	betB	betB	betB	eco:b0312	#000000	#BFFFBF	rn:R02565 rn:R02566	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0312
+830	path:eco00260:62	path:eco00260:62	false	292	186	46	17	glxK...	glxK...	glxK...	eco:b0514|eco:b3124	#000000	#BFFFBF	rn:R01514	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0514+eco:b3124
+831	path:eco00260:63	path:eco00260:63	false	202	909	143	34	Alanine, aspartate and glutamate metabolism	Alanine	Alanine|aspartate and glutamate metabolism	path:eco00250	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00250
+832	path:eco00260:64	path:eco00260:64	false	318	427	133	34	Cysteine and methionine metabolism	Cysteine and methionine metabolism	Cysteine and methionine metabolism	path:eco00270	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00270
+833	path:eco00260:65	path:eco00260:65	false	247	537	46	17	K00544	K00544	K00544	ko:K00544	#000000	#FFFFFF	rn:R02821	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00544
+834	path:eco00260:66	path:eco00260:66	false	475	606	109	25	Purine metabolism	Purine metabolism	Purine metabolism	path:eco00230	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00230
+835	path:eco00260:67	path:eco00260:67	false	561	381	46	17	K00830	K00830	K00830	ko:K00830	#000000	#FFFFFF	rn:R00588	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00830
+836	path:eco00260:68	path:eco00260:68	false	258	301	46	17	K00830	K00830	K00830	ko:K00830	#000000	#FFFFFF	rn:R00585	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00830
+837	path:eco00260:69	path:eco00260:69	false	272	728	131	34	Valine, leucine and isoleucine biosynthesis	Valine	Valine|leucine and isoleucine biosynthesis	path:eco00290	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00290
+838	path:eco00260:70	path:eco00260:70	false	435	477	46	17	K00542	K00542	K00542	ko:K00542	#000000	#FFFFFF	rn:R01883	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00542
+839	path:eco00260:71	path:eco00260:71	false	403	193	46	17	serA	serA	serA	eco:b2913	#000000	#BFFFBF	rn:R01513	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2913
+840	path:eco00260:72	path:eco00260:72	false	139	182	46	17	K00018...	K00018...	K00018...	ko:K00018|ko:K15893|ko:K15919	#000000	#FFFFFF	rn:R01388	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00018+K15893+K15919
+841	path:eco00260:73	path:eco00260:73	false	335	536	46	17	K00315	K00315	K00315	ko:K00315	#000000	#FFFFFF	rn:R01565	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00315
+842	path:eco00260:74	path:eco00260:74	false	460	326	46	17	K01697...	K01697...	K01697...	ko:K01697|ko:K10150	#000000	#FFFFFF	rn:R01290	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K01697+K10150
+843	path:eco00260:75	path:eco00260:75	false	460	393	46	17	K01758...	K01758...	K01758...	ko:K01758|ko:K17217	#000000	#FFFFFF	rn:R01001	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K01758+K17217
+844	path:eco00260:76	path:eco00260:76	false	529	643	46	17	ltaE	ltaE	ltaE	eco:b0870	#000000	#BFFFBF	rn:R06171	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0870
+845	path:eco00260:77	path:eco00260:77	false	520	478	46	17	K00613	K00613	K00613	ko:K00613	#000000	#FFFFFF	rn:R00565	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00613
+846	path:eco00260:78	path:eco00260:78	false	388	910	46	17	thrA...	thrA...	thrA...	eco:b0002|eco:b3940|eco:b4024	#000000	#BFFFBF	rn:R00480	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0002+eco:b3940+eco:b4024
+847	path:eco00260:79	path:eco00260:79	false	82	131	80	34	Glyoxylate and dicarboxylate metabolism	Glyoxylate and dicarboxylate metabolism	Glyoxylate and dicarboxylate metabolism	path:eco00630	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00630
+848	path:eco00260:80	path:eco00260:80	false	532	194	46	17	serC	serC	serC	eco:b0907	#000000	#BFFFBF	rn:R04173	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0907
+849	path:eco00260:81	path:eco00260:81	false	489	526	46	17	K00306...	K00306...	K00306...	ko:K00306|ko:K00301|ko:K00302|ko:K00303|ko:K00304|ko:K00305	#000000	#FFFFFF	rn:R00610	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00306+K00301+K00302+K00303+K00304+K00305
+850	path:eco00260:82	path:eco00260:82	false	489	547	46	17	K00314	K00314	K00314	ko:K00314	#000000	#FFFFFF	rn:R00611	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00314
+851	path:eco00260:83	path:eco00260:83	false	595	218	46	17	serB	serB	serB	eco:b4388	#000000	#BFFFBF	rn:R00582	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b4388
+852	path:eco00260:84	path:eco00260:84	false	590	405	46	17	glyA	glyA	glyA	eco:b2551	#000000	#BFFFBF	rn:R00945	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2551
+853	path:eco00260:85	path:eco00260:85	false	540	729	46	17	tdcB...	tdcB...	tdcB...	eco:b3117|eco:b3772	#000000	#BFFFBF	rn:R00996	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b3117+eco:b3772
+854	path:eco00260:86	path:eco00260:86	false	598	676	46	17	ltaE	ltaE	ltaE	eco:b0870	#000000	#BFFFBF	rn:R00751	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0870
+855	path:eco00260:87	path:eco00260:87	false	465	844	133	34	Cysteine and methionine metabolism	Cysteine and methionine metabolism	Cysteine and methionine metabolism	path:eco00270	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00270
+856	path:eco00260:88	path:eco00260:88	false	639	462	46	17	K00273	K00273	K00273	ko:K00273	#000000	#FFFFFF	rn:R00366	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00273
+857	path:eco00260:89	path:eco00260:89	false	598	764	46	17	thrC	thrC	thrC	eco:b0004	#000000	#BFFFBF	rn:R01466	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0004
+858	path:eco00260:90	path:eco00260:90	false	663	495	46	17	K14272	K14272	K14272	ko:K14272	#000000	#FFFFFF	rn:R00372	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K14272
+859	path:eco00260:91	path:eco00260:91	false	725	699	46	17	tdh	tdh	tdh	eco:b3616	#000000	#BFFFBF	rn:R01465	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b3616
+860	path:eco00260:92	path:eco00260:92	false	398	269	141	25	Sphingolipid metabolism	Sphingolipid metabolism	Sphingolipid metabolism	path:eco00600	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00600
+861	path:eco00260:93	path:eco00260:93	false	410	239	119	25	Methane metabolism	Methane metabolism	Methane metabolism	path:eco00680	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00680
+862	path:eco00260:94	path:eco00260:94	false	661	658	46	17	kbl	kbl	kbl	eco:b3617	#000000	#BFFFBF	rn:R00371	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b3617
+863	path:eco00260:95	path:eco00260:95	false	526	910	46	17	asd	asd	asd	eco:b3433	#000000	#BFFFBF	rn:R02291	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b3433
+864	path:eco00260:97	path:eco00260:97	false	689	284	46	17	sdaA...	sdaA...	sdaA...	eco:b1814|eco:b2797|eco:b4471	#000000	#BFFFBF	rn:R00220	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b1814+eco:b2797+eco:b4471
+865	path:eco00260:98	path:eco00260:98	false	596	993	80	34	Lysine biosynthesis	Lysine biosynthesis	Lysine biosynthesis	path:eco00300	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00300
+866	path:eco00260:99	path:eco00260:99	false	770	394	167	25	Cyanoamino acid metabolism	Cyanoamino acid metabolism	Cyanoamino acid metabolism	path:eco00460	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00460
+867	path:eco00260:100	path:eco00260:100	false	740	364	108	25	Sulfur metabolism	Sulfur metabolism	Sulfur metabolism	path:eco00920	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00920
+868	path:eco00260:101	path:eco00260:101	false	598	822	46	17	thrB	thrB	thrB	eco:b0003	#000000	#BFFFBF	rn:R01771	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0003
+869	path:eco00260:102	path:eco00260:102	false	770	450	75	34	Glyoxylate and dicarboxylate metabolism	Glyoxylate and dicarboxylate metabolism	Glyoxylate and dicarboxylate metabolism	path:eco00630	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00630
+870	path:eco00260:103	path:eco00260:103	false	777	537	46	17	gcvP	gcvP	gcvP	eco:b2903	#000000	#BFFFBF	rn:R03425	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2903
+871	path:eco00260:104	path:eco00260:104	false	725	592	46	17	K00643	K00643	K00643	ko:K00643	#000000	#FFFFFF	rn:R00830	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00643
+872	path:eco00260:105	path:eco00260:105	false	598	878	46	17	thrA...	thrA...	thrA...	eco:b0002|eco:b3940	#000000	#BFFFBF	rn:R01773 rn:R01775	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0002+eco:b3940
+873	path:eco00260:106	path:eco00260:106	false	787	265	46	17	dsdA	dsdA	dsdA	eco:b2366	#000000	#BFFFBF	rn:R00221	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2366
+874	path:eco00260:107	path:eco00260:107	false	807	683	46	17	K00274	K00274	K00274	ko:K00274	#000000	#FFFFFF	rn:R02529	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00274
+875	path:eco00260:108	path:eco00260:108	false	139	203	46	17	ghrA	ghrA	ghrA	eco:b1033	#000000	#BFFFBF	rn:R01388 rn:R01392	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b1033
+876	path:eco00260:109	path:eco00260:109	false	857	683	46	17	tynA	tynA	tynA	eco:b1386	#000000	#BFFFBF	rn:R02529	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b1386
+877	path:eco00260:111	path:eco00260:111	false	923	293	75	34	Pyruvate metabolism	Pyruvate metabolism	Pyruvate metabolism	path:eco00620	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00620
+878	path:eco00260:112	path:eco00260:112	false	884	484	46	17	gcvT	gcvT	gcvT	eco:b2905	#000000	#BFFFBF	rn:R04125	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2905
+879	path:eco00260:114	path:eco00260:114	false	928	591	81	34	Porphyrin and chlorophyll metabolism	Porphyrin and chlorophyll metabolism	Porphyrin and chlorophyll metabolism	path:eco00860	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00860
+880	path:eco00260:115	path:eco00260:115	false	1019	505	46	17	lpd	lpd	lpd	eco:b0116	#000000	#BFFFBF	rn:R03815	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0116
+881	path:eco00260:117	path:eco00260:117	false	489	570	46	17	K00552	K00552	K00552	ko:K00552	#000000	#FFFFFF	rn:R00367	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00552
+882	path:eco00260:118	path:eco00260:118	false	689	305	46	17	tdcB...	tdcB...	tdcB...	eco:b3117|eco:b3772	#000000	#BFFFBF	rn:R00220	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b3117+eco:b3772
+883	path:eco00260:119	path:eco00260:119	false	965	232	8	8	C02855	N-Phospho-D-lombricine	C02855	cpd:C02855	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C02855
+884	path:eco00260:120	path:eco00260:120	false	1019	454	8	8	C02972	Dihydrolipoylprotein	C02972	cpd:C02972	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C02972
+885	path:eco00260:121	path:eco00260:121	false	1019	559	8	8	C02051	Lipoylprotein	C02051	cpd:C02051	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C02051
+886	path:eco00260:122	path:eco00260:122	false	195	192	8	8	C00258	Glycerate	C00258	cpd:C00258	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00258
+887	path:eco00260:123	path:eco00260:123	false	124	425	8	8	C00114	Choline	C00114	cpd:C00114	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00114
+888	path:eco00260:124	path:eco00260:124	false	124	536	8	8	C00576	Betaine aldehyde	C00576	cpd:C00576	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00576
+889	path:eco00260:125	path:eco00260:125	false	208	536	8	8	C00719	Betaine	C00719	cpd:C00719	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00719
+890	path:eco00260:126	path:eco00260:126	false	339	192	8	8	C00197	3-Phosphoglycerate	C00197	cpd:C00197	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00197
+891	path:eco00260:127	path:eco00260:127	false	385	475	8	8	C00300	Creatine	C00300	cpd:C00300	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00300
+892	path:eco00260:128	path:eco00260:128	false	294	536	8	8	C01026	Dimethylglycine	C01026	cpd:C01026	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C01026
+893	path:eco00260:129	path:eco00260:129	false	456	643	8	8	C05519	L-Allothreonine	C05519	cpd:C05519	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C05519
+894	path:eco00260:130	path:eco00260:130	false	473	475	8	8	C00581	Glycocyamine	C00581	cpd:C00581	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00581
+895	path:eco00260:131	path:eco00260:131	false	321	909	8	8	C00049	L-Asp	C00049	cpd:C00049	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00049
+896	path:eco00260:132	path:eco00260:132	false	464	192	8	8	C03232	3-Phosphonooxypyruvate	C03232	cpd:C03232	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C03232
+897	path:eco00260:133	path:eco00260:133	false	460	359	8	8	C02291	L-Cystathionine	C02291	cpd:C02291	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C02291
+898	path:eco00260:134	path:eco00260:134	false	460	426	8	8	C00097	L-Cysteine	C00097	cpd:C00097	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00097
+899	path:eco00260:135	path:eco00260:135	false	385	536	8	8	C00213	Sarcosine	C00213	cpd:C00213	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00213
+900	path:eco00260:136	path:eco00260:136	false	595	192	8	8	C01005	Dexfosfoserine	C01005	cpd:C01005	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C01005
+901	path:eco00260:137	path:eco00260:137	false	595	535	8	8	C00037	Gly	C00037	cpd:C00037	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00037
+902	path:eco00260:138	path:eco00260:138	false	598	728	8	8	C00188	L-Threonine	C00188	cpd:C00188	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00188
+903	path:eco00260:139	path:eco00260:139	false	466	728	8	8	C00109	2-Oxobutyrate	C00109	cpd:C00109	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00109
+904	path:eco00260:140	path:eco00260:140	false	457	909	8	8	C03082	4-Phospho-L-aspartate	C03082	cpd:C03082	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C03082
+905	path:eco00260:141	path:eco00260:141	false	595	294	8	8	C00065	Serine	C00065	cpd:C00065	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00065
+906	path:eco00260:142	path:eco00260:142	false	688	451	8	8	C00048	Glyoxylate	C00048	cpd:C00048	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00048
+907	path:eco00260:143	path:eco00260:143	false	598	788	8	8	C01102	O-Phospho-L-homoserine	C01102	cpd:C01102	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C01102
+908	path:eco00260:144	path:eco00260:144	false	725	657	8	8	C03508	L-2-Amino-acetoacetate	C03508	cpd:C03508	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C03508
+909	path:eco00260:145	path:eco00260:145	false	598	844	8	8	C00263	L-Homoserine	C00263	cpd:C00263	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00263
+910	path:eco00260:146	path:eco00260:146	false	598	909	8	8	C00441	L-Aspartic 4-semialdehyde	C00441	cpd:C00441	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00441
+911	path:eco00260:147	path:eco00260:147	false	787	232	8	8	C00740	D-Serine	C00740	cpd:C00740	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00740
+912	path:eco00260:148	path:eco00260:148	false	787	294	8	8	C00022	Pyruvate	C00022	cpd:C00022	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00022
+913	path:eco00260:149	path:eco00260:149	false	814	500	8	8	C00011	CO2	C00011	cpd:C00011	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00011
+914	path:eco00260:150	path:eco00260:150	false	824	591	8	8	C00430	5-Aminolevulinate	C00430	cpd:C00430	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00430
+915	path:eco00260:151	path:eco00260:151	false	80	192	8	8	C00168	Hydroxypyruvate	C00168	cpd:C00168	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00168
+916	path:eco00260:152	path:eco00260:152	false	853	454	8	8	C00014	NH3	C00014	cpd:C00014	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00014
+917	path:eco00260:153	path:eco00260:153	false	855	515	8	8	C00101	THF	C00101	cpd:C00101	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00101
+918	path:eco00260:154	path:eco00260:154	false	858	232	8	8	C01726	D-Lombricine	C01726	cpd:C01726	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C01726
+919	path:eco00260:155	path:eco00260:155	false	832	657	8	8	C01888	Aminoacetone	C01888	cpd:C01888	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C01888
+920	path:eco00260:156	path:eco00260:156	false	832	714	8	8	C00546	Methylglyoxal	C00546	cpd:C00546	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00546
+921	path:eco00260:157	path:eco00260:157	false	884	424	8	8	C00143	5,10-Methylene-THF	C00143	cpd:C00143	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00143
+922	path:eco00260:158	path:eco00260:158	false	884	536	8	8	C01242	S-Aminomethyldihydrolipoylprotein	C01242	cpd:C01242	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C01242
+923	path:eco00260:159	path:eco00260:159	false	928	657	8	8	C03194	(R)-1-Aminopropan-2-ol	C03194	cpd:C03194	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C03194
+924	path:eco00260:165	path:eco00260:165	false	149	483	46	17	K11440	K11440	K11440	ko:K11440	#000000	#FFFFFF	rn:R08557 rn:R08558	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K11440
+925	path:eco00260:167	path:eco00260:167	false	439	135	105	34	Glycolysis / Gluconeogenesis	Glycolysis / Gluconeogenesis	Glycolysis / Gluconeogenesis	path:eco00010	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00010
+926	path:eco00260:168	path:eco00260:168	false	127	369	118	34	Glycerophospholipid metabolism	Glycerophospholipid metabolism	Glycerophospholipid metabolism	path:eco00564	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00564
+927	path:eco00260:170	path:eco00260:170	false	385	501	46	17	K08688	K08688	K08688	ko:K08688	#000000	#FFFFFF	rn:R01566	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K08688
+928	path:eco00260:171	path:eco00260:171	false	252	475	118	34	Arginine and proline metabolism	Arginine and proline metabolism	Arginine and proline metabolism	path:eco00330	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00330
+929	path:eco00260:173	path:eco00260:173	false	357	327	46	17	pssA	pssA	pssA	eco:b2585	#000000	#BFFFBF	rn:R01800	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2585
+930	path:eco00260:174	path:eco00260:174	false	357	369	8	8	C02737	Phosphatidylserine	C02737	cpd:C02737	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C02737
+931	path:eco00260:176	path:eco00260:176	false	749	336	8	8	C00078	Tryptophan	C00078	cpd:C00078	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00078
+932	path:eco00260:177	path:eco00260:177	false	672	337	46	17	trpA...	trpA...	trpA...	eco:b1260|eco:b1261	#000000	#BFFFBF	rn:R02722	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b1260+eco:b1261
+933	path:eco00260:178	path:eco00260:178	false	890	336	135	25	Pyruvate metabolism	Pyruvate metabolism	Pyruvate metabolism	path:eco00620	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00620
+934	path:eco00260:179	path:eco00260:179	false	258	280	46	17	K00830	K00830	K00830	ko:K00830	#000000	#FFFFFF	rn:R00588	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00830
+935	path:eco00260:180	path:eco00260:180	false	512	358	46	17	K01697...	K01697...	K01697...	ko:K01697|ko:K10150	#000000	#FFFFFF	rn:R00891	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K01697+K10150
+936	path:eco00260:181	path:eco00260:181	false	226	58	372	25	TITLE:Glycine, serine and threonine metabolism	TITLE:Glycine	TITLE:Glycine|serine and threonine metabolism	path:eco00260	#000000	#f5f5f5		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00260
+937	path:eco00260:182	path:eco00260:182	false	922	260	75	25	Citrate cycle (TCA cycle)	Citrate cycle (TCA cycle)	Citrate cycle (TCA cycle)	path:eco00020	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00020
+938	path:eco00260:183	path:eco00260:183	false	713	495	46	17	K00827...	K00827...	K00827...	ko:K00827|ko:K00830|ko:K14272	#000000	#FFFFFF	rn:R00372	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K00827+K00830+K14272
+939	path:eco00260:185	path:eco00260:185	false	734	826	8	8	C00986	1,3-Diaminopropane	C00986	cpd:C00986	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00986
+940	path:eco00260:186	path:eco00260:186	false	735	864	46	17	K13745	K13745	K13745	ko:K13745	#000000	#FFFFFF	rn:R07650	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K13745
+941	path:eco00260:187	path:eco00260:187	false	870	826	118	34	Arginine and proline metabolism	Arginine and proline metabolism	Arginine and proline metabolism	path:eco00330	#000000	#89b9cE		map	roundrectangle	http://www.kegg.jp/dbget-bin/www_bget?eco00330
+942	path:eco00260:189	path:eco00260:189	false	195	135	8	8	C00631	2-Phospho-D-glycerate	C00631	cpd:C00631	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C00631
+943	path:eco00260:191	path:eco00260:191	false	195	169	46	17	K11529	K11529	K11529	ko:K11529	#000000	#FFFFFF	rn:R08572	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K11529
+944	path:eco00260:192	path:eco00260:192	false	259	125	46	17	gpmA	gpmA	gpmA	eco:b0755	#000000	#BFFFBF	rn:R01518	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b0755
+945	path:eco00260:194	path:eco00260:194	false	915	956	46	17	K15783	K15783	K15783	ko:K15783	#000000	#FFFFFF	rn:R09800	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K15783
+946	path:eco00260:195	path:eco00260:195	false	861	955	8	8	C19929	N-alpha-Acetyl-L-2,4-diaminobutyrate	C19929	cpd:C19929	#000000	#FFFFFF		compound	circle	http://www.kegg.jp/dbget-bin/www_bget?C19929
+947	path:eco00260:197	path:eco00260:197	false	792	956	46	17	K15784	K15784	K15784	ko:K15784	#000000	#FFFFFF	rn:R09801	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K15784
+948	path:eco00260:199	path:eco00260:199	false	663	956	46	17	K15785	K15785	K15785	ko:K15785	#000000	#FFFFFF	rn:R06977	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K15785
+949	path:eco00260:201	path:eco00260:201	false	456	956	46	17	K15786	K15786	K15786	ko:K15786	#000000	#FFFFFF	rn:R09805	ortholog	rectangle	http://www.kegg.jp/dbget-bin/www_bget?K15786
+950	path:eco00260:202	path:eco00260:202	false	259	146	46	17	gpmM...	gpmM...	gpmM...	eco:b3612|eco:b4395	#000000	#BFFFBF	rn:R01518	gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b3612+eco:b4395
+951	path:eco00260:203	path:eco00260:203	false	953	493	46	17	gcvH	gcvH	gcvH	eco:b2904	#000000	#BFFFBF		gene	rectangle	http://www.kegg.jp/dbget-bin/www_bget?eco:b2904

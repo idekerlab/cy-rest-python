@@ -1,2 +1,12 @@
 FROM ubuntu:14.04
 RUN apt-get update
+
+RUN apt-get install -y git python python-numpy python-scipy python-pip python-zmq python-matplotlib
+RUN cd /; git clone git://github.com/idekerlab/py2cytoscape; git clone git://github.com/idekerlab/cy-rest-python
+
+RUN cd /py2cytoscape; python setup.py install
+
+RUN cd /; pip install "ipython[notebook]" requests
+
+EXPOSE 8888
+CMD ipython notebook --notebook-dir='/cy-rest-python' --no-browser --ip='*' --port 8888

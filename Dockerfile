@@ -1,6 +1,6 @@
 #
 # Simple Python Notebook Server for running cyREST examples
-# Designed to use with Python 3.
+# Contains both Python 2 and 3.
 #
 FROM ipython/scipyserver
 

@@ -1,14 +1,27 @@
-FROM ubuntu:14.04
+#
+# Simple Python Notebook Server for running cyREST examples
+# Designed to use with Python 3.
+#
+FROM ipython/scipyserver
 
-# Basic system updates & install Python
-RUN apt-get update && apt-get install -y git python python-numpy python-scipy python-pip python-zmq python-matplotlib
+MAINTAINER Keiichiro Ono <kono@ucsd.edu>
 
-# Clone notebooks to container.  TODO: Use local notebook instead?
-RUN cd /; git clone git://github.com/idekerlab/cy-rest-python
+##### graph-tool #########################
+RUN mkdir /graph-tool
+WORKDIR /graph-tool
+ADD . /graph-tool
 
-# Install all Python dependeicies with pip
-RUN cd /; pip install "ipython[notebook]" requests py2cytoscape networkx bokeh
+RUN echo "deb http://downloads.skewed.de/apt/trusty trusty universe" >>/etc/apt/sources.list
+RUN echo "deb-src http://downloads.skewed.de/apt/trusty trusty universe" >>/etc/apt/sources.list
+RUN apt-key add graph-tool-pub-key.txt
 
-EXPOSE 8888
+# Install OS-level packages and misc. tools
+RUN apt-get update && \
+    apt-get install -y build-essential libxml2-dev libxslt1-dev \
+            python-dev libzmq3-dev libcurl4-openssl-dev python3-graph-tool \
+        	curl wget
 
-CMD ipython notebook --notebook-dir='/cy-rest-python' --no-browser --ip='*' --port 8888
+# Install Python dependencie
+RUN pip install networkx python-igraph py2cytoscape==0.4.1 requests bokeh
+
+WORKDIR /notebooks
